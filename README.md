@@ -8,10 +8,15 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import Required Libraries
+2.Load and Inspect the Dataset
+3.Select Multiple Input Features and Target Variable
+4.Split the Dataset into Training and Testing Sets
+5.Perform Feature Scaling on Input Variables
+6.Initialize and Configure the SGD Regressor Model
+7.Train the Model Using Training Data
+8.Predict Output for Test Data
+9Evaluate Model Performance Using Error Metrics
 
 ## Program:
 ```
@@ -75,8 +80,10 @@ multi_output_sgd.fit(X_train_scaled, Y_train_scaled)
 ```
 
 ## Output:
+<img width="605" height="594" alt="Screenshot 2025-12-01 105632" src="https://github.com/user-attachments/assets/d34faa2f-61a0-4efe-b732-2f637a72ba98" />
+<img width="386" height="181" alt="Screenshot 2025-12-01 105612" src="https://github.com/user-attachments/assets/689b692d-c835-406b-af99-8e71f05d39a7" />
 
-<img width="610" height="131" alt="image" src="https://github.com/user-attachments/assets/10c95002-12fa-4ecb-a473-c6f2c5656e28" />
+
 
 
 
